@@ -1,0 +1,69 @@
+*{
+
+    font-family: 'Times New Roman',Times,serif;
+
+}
+
+
+
+body{
+
+    width: 100%;
+
+    height: 85vh;
+
+    background-color: #eae2b7;
+
+    display: grid;
+
+    justify-content: center;
+
+    align-items: center;
+
+    place-items: center;
+
+}
+
+
+
+#fa{
+
+    font-size: 50px;
+
+}
+
+
+
+form{
+
+    background-color: white;
+
+    padding: 50px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+
+    -moz-box-shadow: 0 10px 6px -6px #777;
+
+    box-shadow: 0 10px 6px -6px #777;
+
+    border-radius: 10px;
+
+}
+
+
+
+#tempCalc label{
+
+    font-size: 35px;
+
+}
+
+#resultContainer{
+
+    font-size: 35px;
+
+}
